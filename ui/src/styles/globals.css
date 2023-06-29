@@ -43,7 +43,11 @@ body {
   font-family: 'ABC Monument Grotesk';
 }
 
-a {
+/* a {
   color: inherit;
   text-decoration: none;
+} */
+
+a {
+  color: blue;
 }
